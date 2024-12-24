@@ -1,14 +1,8 @@
-# Sangini
-Introducing Sangini, your AI-powered virtual assistant designed to simplify and enhance your daily life through seamless voice interaction. Speak naturally to engage with an intelligent assistant that listens, understands, and responds to you in real time—making your experience both efficient and intuitive.
+# React + Vite
 
-Key Features:
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Natural Voice Input: Talk to the assistant like you would to a friend. No typing required.
+Currently, two official plugins are available:
 
-Interactive Audio Responses: Receive clear, human-like audio replies tailored to your questions and commands.
-
-Multi-Tasking: Set reminders, manage schedules, play music, search the web, or control smart home devices effortlessly—all through voice commands.
-
-Accessibility: Perfect for when you're on the go or multitasking at home or work.
-
-With Sangini, you get a conversational partner that transforms the way you interact with technology, making your tasks quicker, easier, and more enjoyable.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
